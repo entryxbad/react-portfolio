@@ -1,4 +1,4 @@
-import repair from '../../assets/works/repair.png'
+import lawyers from '../../assets/works/lawyers.png'
 import iphone from '../../assets/works/iphone.png'
 import will from '../../assets/works/will.png'
 import delivery from '../../assets/works/delivery.png'
@@ -6,10 +6,10 @@ import flowers from '../../assets/works/flowers.png'
 
 export const demo = [
     {
-        img: repair,
+        img: lawyers,
         alt: 'Picture',
         buttonText: 'Открыть демо',
-        link: 'https://entryxbad.github.io/repair-design/'
+        link: 'https://entryxbad.github.io/the-lawyers/'
     },
     {
         img: iphone,
