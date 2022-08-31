@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.c8e24e80.css",
-    "main.js": "/react-portfolio/static/js/main.c98a2566.js",
+    "main.js": "/react-portfolio/static/js/main.d542f87e.js",
     "static/js/787.1ed0c42c.chunk.js": "/react-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/delivery.png": "/react-portfolio/static/media/delivery.b6098741c2b89ca9d90e.png",
-    "static/media/will.png": "/react-portfolio/static/media/will.29d9da12327fd1cd6e42.png",
     "static/media/photo.webp": "/react-portfolio/static/media/photo.14fb4f4ba53c27397f28.webp",
     "static/media/lawyers.png": "/react-portfolio/static/media/lawyers.2a03f326eb6ef71363f0.png",
-    "static/media/iphone.png": "/react-portfolio/static/media/iphone.fb264df949262843a035.png",
+    "static/media/iphone.png": "/react-portfolio/static/media/iphone.9275fc82b2880206fe3d.png",
     "static/media/flowers.png": "/react-portfolio/static/media/flowers.9c029c201ee4ccb4c2fa.png",
+    "static/media/todo.png": "/react-portfolio/static/media/todo.d25c93c5cb2ccee52fd3.png",
     "static/media/slick.svg": "/react-portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/react-portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/react-portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/react-portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/react-portfolio/index.html",
     "main.c8e24e80.css.map": "/react-portfolio/static/css/main.c8e24e80.css.map",
-    "main.c98a2566.js.map": "/react-portfolio/static/js/main.c98a2566.js.map",
+    "main.d542f87e.js.map": "/react-portfolio/static/js/main.d542f87e.js.map",
     "787.1ed0c42c.chunk.js.map": "/react-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c8e24e80.css",
-    "static/js/main.c98a2566.js"
+    "static/js/main.d542f87e.js"
   ]
 }
