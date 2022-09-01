@@ -8,31 +8,31 @@ export const demo = [
     {
         img: lawyers,
         alt: 'Picture',
-        buttonText: 'Открыть демо',
+        buttonText: 'Open demo',
         link: 'https://entryxbad.github.io/the-lawyers/'
     },
     {
         img: iphone,
         alt: 'Picture',
-        buttonText: 'Открыть демо',
+        buttonText: 'Open demo',
         link: 'https://entryxbad.github.io/iphone-js/'
     },
     {
         img: todo,
         alt: 'Picture',
-        buttonText: 'Открыть демо',
+        buttonText: 'Open demo',
         link: 'https://entryxbad.github.io/todo-list/'
     },
     {
         img: delivery,
         alt: 'Picture',
-        buttonText: 'Открыть демо',
+        buttonText: 'Open demo',
         link: 'https://entryxbad.github.io/delivery-food/'
     },
     {
         img: flowers,
         alt: 'Picture',
-        buttonText: 'Открыть демо',
+        buttonText: 'Open demo',
         link: 'https://entryxbad.github.io/flowers/'
     },
 ]
