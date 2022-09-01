@@ -6,8 +6,8 @@ const Contacts = () => {
     return (
         <div className='h-96 mt-10'>
             <div className='text-center flex-col'>
-                <div className={title}>Мои контакты</div>
-                <div className='text-base sm:text-lg lg:text-2xl' >Заинтересовало моё портфолио? <br /> Способы связи со мной.</div>
+                <div className={title}>My contacts</div>
+                <div className='text-base sm:text-lg lg:text-2xl' >Are you interested in my portfolio?<br /> Ways to contact me.</div>
             </div>
             <div className='flex justify-evenly pt-20 scale-75 sm:scale-100'>
                 {contactsIcon.map(item => (

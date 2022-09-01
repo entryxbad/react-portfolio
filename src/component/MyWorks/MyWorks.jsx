@@ -5,7 +5,7 @@ import { demo } from '../../utils/Works/Demo'
 const MyWorks = () => {
     return (
         <div className='text-center'>
-            <div className={title}>Мои работы</div>
+            <div className={title}>My works</div>
             {demo.map(item => (
                 <div key={item.img} className='px-10'>
                     <img className='m-auto border-4 border-neutral-500 min-w-lg' src={item.img} alt={item.alt} />
