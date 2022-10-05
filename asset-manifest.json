@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.5f55b46f.css",
-    "main.js": "/react-portfolio/static/js/main.20cf7248.js",
+    "main.css": "/react-portfolio/static/css/main.dc13e41b.css",
+    "main.js": "/react-portfolio/static/js/main.5ca830b2.js",
     "static/media/delivery.png": "/react-portfolio/static/media/delivery.742001e668d82a7e586f.png",
     "static/media/lawyers.png": "/react-portfolio/static/media/lawyers.a7d9d2c493234bb9dd54.png",
     "static/media/iphone.png": "/react-portfolio/static/media/iphone.fd730cf939db3c278505.png",
     "static/media/react.png": "/react-portfolio/static/media/react.6d7dcc543e216551e781.png",
+    "static/media/logo.png": "/react-portfolio/static/media/logo.3aede344d393b0cb9986.png",
     "static/media/todo.png": "/react-portfolio/static/media/todo.d25c93c5cb2ccee52fd3.png",
     "static/media/redux.png": "/react-portfolio/static/media/redux.5dd0dfd177267423c151.png",
     "static/media/css.png": "/react-portfolio/static/media/css.c432a38fb289e7fc08d8.png",
     "index.html": "/react-portfolio/index.html",
-    "main.5f55b46f.css.map": "/react-portfolio/static/css/main.5f55b46f.css.map",
-    "main.20cf7248.js.map": "/react-portfolio/static/js/main.20cf7248.js.map"
+    "main.dc13e41b.css.map": "/react-portfolio/static/css/main.dc13e41b.css.map",
+    "main.5ca830b2.js.map": "/react-portfolio/static/js/main.5ca830b2.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f55b46f.css",
-    "static/js/main.20cf7248.js"
+    "static/css/main.dc13e41b.css",
+    "static/js/main.5ca830b2.js"
   ]
 }
