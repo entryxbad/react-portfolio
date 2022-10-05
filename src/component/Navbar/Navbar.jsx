@@ -10,8 +10,10 @@ const Navbar = () => {
 
     return (
         <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300'>
-            <div>
-                <img className='animate-pulse' src={Logo} alt="logo" style={{ width: '80px' }} />
+            <div className='animate-pulse cursor-pointer'>
+                <Link to="main" smooth={true} duration={500}>
+                    <img src={Logo} alt="logo" style={{ width: '80px' }} />
+                </Link>
             </div>
 
             {/* menu */}
