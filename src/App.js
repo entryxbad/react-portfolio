@@ -1,22 +1,20 @@
 import './App.css'
 import About from './component/About/About'
-import Contacts from './component/Contacts/Contacts'
 import Main from './component/Main/Main'
 import MyWorks from './component/MyWorks/MyWorks'
-import Photo from './component/Photo/Photo'
+import Navbar from './component/Navbar/Navbar'
 import Skills from './component/Skills/Skills'
+import Contact from './component/Contact/Contact'
 
 const App = () => {
   return (
-    <div className=' bg-stone-300'>
-      <div className='md:container md:mx-auto overflow-x-hidden'>
-        <Main />
-        <Photo />
-        <About />
-        <Skills />
-        <MyWorks />
-        <Contacts />
-      </div>
+    <div >
+      <Navbar />
+      <Main />
+      <About />
+      <Skills />
+      <MyWorks />
+      <Contact />
     </div>
   )
 }
