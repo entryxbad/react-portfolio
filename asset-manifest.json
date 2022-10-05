@@ -1,25 +1,20 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.c8e24e80.css",
-    "main.js": "/react-portfolio/static/js/main.7d8a8934.js",
-    "static/js/787.1ed0c42c.chunk.js": "/react-portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/delivery.png": "/react-portfolio/static/media/delivery.b6098741c2b89ca9d90e.png",
-    "static/media/photo.webp": "/react-portfolio/static/media/photo.14fb4f4ba53c27397f28.webp",
-    "static/media/lawyers.png": "/react-portfolio/static/media/lawyers.2a03f326eb6ef71363f0.png",
-    "static/media/iphone.png": "/react-portfolio/static/media/iphone.9275fc82b2880206fe3d.png",
-    "static/media/flowers.png": "/react-portfolio/static/media/flowers.9c029c201ee4ccb4c2fa.png",
+    "main.css": "/react-portfolio/static/css/main.5f55b46f.css",
+    "main.js": "/react-portfolio/static/js/main.8fe6f058.js",
+    "static/media/delivery.png": "/react-portfolio/static/media/delivery.742001e668d82a7e586f.png",
+    "static/media/lawyers.png": "/react-portfolio/static/media/lawyers.a7d9d2c493234bb9dd54.png",
+    "static/media/iphone.png": "/react-portfolio/static/media/iphone.fd730cf939db3c278505.png",
+    "static/media/react.png": "/react-portfolio/static/media/react.6d7dcc543e216551e781.png",
     "static/media/todo.png": "/react-portfolio/static/media/todo.d25c93c5cb2ccee52fd3.png",
-    "static/media/slick.svg": "/react-portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/react-portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/react-portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/react-portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/redux.png": "/react-portfolio/static/media/redux.5dd0dfd177267423c151.png",
+    "static/media/css.png": "/react-portfolio/static/media/css.c432a38fb289e7fc08d8.png",
     "index.html": "/react-portfolio/index.html",
-    "main.c8e24e80.css.map": "/react-portfolio/static/css/main.c8e24e80.css.map",
-    "main.7d8a8934.js.map": "/react-portfolio/static/js/main.7d8a8934.js.map",
-    "787.1ed0c42c.chunk.js.map": "/react-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.5f55b46f.css.map": "/react-portfolio/static/css/main.5f55b46f.css.map",
+    "main.8fe6f058.js.map": "/react-portfolio/static/js/main.8fe6f058.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8e24e80.css",
-    "static/js/main.7d8a8934.js"
+    "static/css/main.5f55b46f.css",
+    "static/js/main.8fe6f058.js"
   ]
 }
