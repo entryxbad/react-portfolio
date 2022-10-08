@@ -1,5 +1,5 @@
 import React from 'react'
-import { icons } from '../../utils/SkillsIcon/Icons.js'
+import { icons } from '../../utils/Icons'
 
 const Skills = () => {
     return (
