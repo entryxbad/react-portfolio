@@ -3,6 +3,7 @@ import TheLawyers from '../assets/works/lawyers.png'
 import IPhone from '../assets/works/iphone.png'
 import Todo from '../assets/works/todo.png'
 import Finance from '../assets/works/finance.png'
+import Weather from '../assets/works/weather.png'
 
 export const Works = [
     {
@@ -15,7 +16,13 @@ export const Works = [
         backgroundImage: TheLawyers,
         title: 'The Lawyers',
         demo: 'https://entryxbad.github.io/the-lawyers/',
-        code: 'https://github.com/entryxbad/the-lawyers/'
+        code: 'https://github.com/entryxbad/the-lawyers'
+    },
+    {
+        backgroundImage: Weather,
+        title: 'Weather app with API',
+        demo: 'https://entryxbad.github.io/weather_app/',
+        code: 'https://github.com/entryxbad/weather_app'
     },
     {
         backgroundImage: Finance,
